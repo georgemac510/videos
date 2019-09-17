@@ -2,6 +2,9 @@
   "name": "videos",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.16.3"
+  },
   "dependencies": {
     "axios": "^0.18.1",
     "conseiljs": "^0.2.6",
