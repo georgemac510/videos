@@ -7,7 +7,7 @@
     "npm": "6.9.0"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "conseiljs": "^0.2.6",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
